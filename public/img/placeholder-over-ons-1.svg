@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <!-- Placeholder 1 (Over ons): photo of the owner, to be supplied by the client. See OPEN-PUNTEN.md. -->
+  <rect width="800" height="1000" fill="#1E2328"/>
+  <text x="400" y="480" fill="#FFFFFF" font-family="Archivo, system-ui, sans-serif" font-size="160" font-weight="800" text-anchor="middle">1</text>
+  <text x="400" y="560" fill="#B8C0C8" font-family="Archivo, system-ui, sans-serif" font-size="36" text-anchor="middle">Foto eigenaar</text>
+</svg>

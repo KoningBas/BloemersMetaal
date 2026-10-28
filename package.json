@@ -1,0 +1,31 @@
+{
+  "name": "bloemers-metaal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node serve.mjs",
+    "build": "vite build",
+    "preview": "vite preview --port 4173 --strictPort",
+    "images": "node scripts/images.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@fontsource-variable/archivo": "^5.3.0",
+    "lighthouse": "^13.5.0",
+    "puppeteer": "^25.1.0",
+    "sharp": "^0.35.5",
+    "typescript": "^7.0.2",
+    "vite": "^7.3.7"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  }
+}
